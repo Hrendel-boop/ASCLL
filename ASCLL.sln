@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASCLL", "ASCLL\ASCLL.csproj", "{ACA7A54A-8722-4374-82B6-F46D654E1640}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACA7A54A-8722-4374-82B6-F46D654E1640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACA7A54A-8722-4374-82B6-F46D654E1640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACA7A54A-8722-4374-82B6-F46D654E1640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACA7A54A-8722-4374-82B6-F46D654E1640}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56AC2294-6487-4DE6-9DB0-B2509FE73CEC}
+	EndGlobalSection
+EndGlobal
